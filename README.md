@@ -1,6 +1,6 @@
 XAPES
 
-Proejcto on scrappejo les xapes de xapes.net i em faig un inventari propi en un excel.
+Projecte on scrappejo les xapes de xapes.net i em faig un inventari propi en un excel.
 
 A part d'això s'han fet altres funcionalitats que permeten:
 - Obtenir imatges en local de les xapes, segons el seu id de xapes.net
